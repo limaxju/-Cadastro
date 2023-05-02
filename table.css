@@ -1,0 +1,113 @@
+form
+{
+  position:relative;
+  left:37%;
+  top:10em;
+  width:320px;
+  height:500px;
+}
+#area #formulariodecadastro
+{
+  position:absolute;
+  display:block;
+}
+fieldset
+{
+  background-color:#a7dcc8;
+  width:300px;
+  height:400px;
+}
+#formulario label
+{
+  position:absolute;
+  left:19px;
+  margin-right:5px;
+}
+#formulario input.campo_nome
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  top:23px;
+  width:225px;
+}
+#formulario input.campo_email
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_telefone
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_cep
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_endereço
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_número
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_complemento
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_bairro
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_cidade
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_estado
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_cadastrar
+{
+  background-color:#ff00dd;
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+}
