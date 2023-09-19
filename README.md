@@ -10,10 +10,10 @@
 [Autores](#autores)  
 
 # Formulário_Cadastro
-! [Capa_cadastro] (capa_cadastro.jpeg)
+![Capa_cadastro](capa_cadastro.jpg)
 ## Descrição
 O formulário de cadastro foi executado em sala de aula, fazendo com que tenha funcionalidade de preencher os campos de login.
-## Introduçao
+## Introdução
 Realizando o projeto aprendemos á fazer uma página de login
 ## Funcionalidade
 Executar formulário de cadastro 
