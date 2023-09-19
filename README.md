@@ -9,7 +9,7 @@
 [Fontes Consulta](#fontes-consulta)  
 [Autores](#autores)  
 
-# Formulário_Cadastro
+# Formulário de Cadastro
 ![Capa_cadastro](capa_cadastro.jpg)
 ## Descrição
 O formulário de cadastro foi executado em sala de aula, fazendo com que tenha funcionalidade de preencher os campos de login.
@@ -26,3 +26,4 @@ Executar formulário de cadastro
 ## Fontes Consulta
 * [Github](https://github.com/limaxju/-Cadastro.git)
 ## Autores
+Julia Eduarda de Lima Barbosa
