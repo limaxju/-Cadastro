@@ -10,7 +10,7 @@
 [Autores](#autores)  
 
 # Formulário_Cadastro
-
+! [Capa_cadastro] (capa_cadastro.jpeg)
 ## Descrição
 O formulário de cadastro foi executado em sala de aula, fazendo com que tenha funcionalidade de preencher os campos de login.
 ## Introduçao
@@ -18,7 +18,11 @@ Realizando o projeto aprendemos á fazer uma página de login
 ## Funcionalidade
 Executar formulário de cadastro 
 ## Tecnologias Utilizadas
-HTML,CSS,VSCODE, JAVASCRIPT,GITHUB,GIT.
+* ``HTML``
+* ``CSS``
+* ``VSCODE`` 
+* ``JAVASCRIPT``
+* ``GITHUB,GIT``
 ## Fontes Consulta
-https://github.com/limaxju/-Cadastro.git
+* [Github](https://github.com/limaxju/-Cadastro.git)
 ## Autores
