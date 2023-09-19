@@ -18,11 +18,12 @@ Realizando o projeto aprendemos á fazer uma página de login
 ## Funcionalidade
 Executar formulário de cadastro 
 ## Tecnologias Utilizadas
-* ``HTML``
-* ``CSS``
+* ``HTML5``
+* ``CSS3``
 * ``VSCODE`` 
 * ``JAVASCRIPT``
-* ``GITHUB,GIT``
+* ``GITHUB``
+* ``GIT``
 ## Fontes Consulta
 * [Github](https://github.com/limaxju/-Cadastro.git)
 ## Autores
